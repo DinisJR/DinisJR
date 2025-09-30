@@ -1,8 +1,3 @@
 <p align="center">
-  <svg width="100%" height="100">
-    <text x="0" y="50" font-size="30" fill="cyan">
-      <animate attributeName="x" from="0" to="80%" dur="4s" begin="0s" repeatCount="indefinite" direction="alternate"/>
-      Dinis Jacob Ramos
-    </text>
-  </svg>
+  <img src="[dinis.svg](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1kejVubzRwcWg3ajh6NmxidmpndzF2N3lwMjc1cGNuMW10YnVrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HteV6g0QTNxp6/giphy.gif)" />
 </p>
